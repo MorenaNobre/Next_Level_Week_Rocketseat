@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="NLW" src="docs/next_level_week_rocket.jpg" width="50%" />
+    <img alt="NLW" src="docs/next_level_week_rocket.jpg" width="25%" />
 </div>
 <h3 align="center">
   Next Level Week
