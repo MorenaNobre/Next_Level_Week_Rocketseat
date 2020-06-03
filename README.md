@@ -15,6 +15,11 @@
 A Next Level Week é uma experiência online oferecida pela Rocketseat 🚀 para alavancar os conhecimentos dxs devs. São 5 episódios recheados com conteúdos variados das tecnologias mais utilizadas em desenvolvimento web. E é mão na massa desde o primeiro episódio!
 A proposta é desenvolver um marketplace para a coleta de resíduos e sua reciclagem, disponibilizando os pontos de coleta e também a possibilidade de cadastrar novos pontos de coleta.
 
+## Apresentação da aplicação
+<div align="center">
+    <img alt="Exemplo" src="docs/ecoleta_rocket.gif" width="100%" />
+</div>
+
 
 
 ### A experiência NLW
@@ -23,7 +28,7 @@ Os episódios proporcionam na prática os principais funcdamentos do desenvolvim
 
 - [x] EPISÓDIO 1 - Criação de layout e estilização do HTML da página principal.
 - [x] EPISÓDIO 2 - Criação do formulário de cadastro, aplicação de JavaScript e utilização de API de localidades da IBGE.
-- [ ] EPISÓDIO 3
+- [X] EPISÓDIO 3 - Finalização do layout do formuário e aplicação JS, criação do modal e aplicação JS e criação da página de resultados.
 - [ ] EPISÓDIO 4
 - [ ] EPISÓDIO 5
 
