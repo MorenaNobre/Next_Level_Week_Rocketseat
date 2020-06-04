@@ -1,4 +1,4 @@
-@media (max-width: 930px) {
+@media (max-width: 900px) {
     #page-home {
         background-position-x: 70vw;
     }
@@ -25,6 +25,18 @@
 
     #page-search-results .cards img {
         height: 200px;
+    }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }
+
+    .items-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
 }
 
