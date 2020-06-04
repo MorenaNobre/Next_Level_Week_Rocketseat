@@ -29,7 +29,7 @@ Os episódios proporcionam na prática os principais funcdamentos do desenvolvim
 - [x] EPISÓDIO 1 - Criação de layout e estilização do HTML da página principal.
 - [x] EPISÓDIO 2 - Criação do formulário de cadastro, aplicação de JavaScript e utilização de API de localidades da IBGE.
 - [X] EPISÓDIO 3 - Finalização do layout do formuário e aplicação JS, criação do modal e aplicação JS e criação da página de resultados.
-- [ ] EPISÓDIO 4
+- [x] EPISÓDIO 4 - Estrutura de pastas, criação do servidor, rota para aplicação e template engine (Nunjucks).
 - [ ] EPISÓDIO 5
 
 
