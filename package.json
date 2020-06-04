@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorenaNobre/Next_Level_Week_Rocketseat.git"
+  },
+  "author": "Morena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorenaNobre/Next_Level_Week_Rocketseat/issues"
+  },
+  "homepage": "https://github.com/MorenaNobre/Next_Level_Week_Rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
