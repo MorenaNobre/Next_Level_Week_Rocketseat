@@ -5,10 +5,24 @@
   Next Level Week - Starter
 </h3>
 
+<p align="center">
+
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/morenanobre/" >
+    <img alt="My Linkedin" src="https://img.shields.io/badge/-Morena Nobre-%230077B5?style=social&logo=linkedin">
+  </a>
+
+</p>
+
 <blockquote align="center">“A chave para a transformação é a continuidade. Continue a Codar!.”</blockquote>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre a Next Level Week</a>&nbsp;&nbsp;&nbsp;
+  <a href="#sobre-a-next-level-week">Sobre a Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#apresentação-da-aplicação">Apresentação da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#a-experiência-nlw">A experiência NLW</a>
 </p>
 
 ## Sobre a Next Level Week
@@ -22,7 +36,7 @@ A proposta é desenvolver um marketplace para a coleta de resíduos e sua recicl
 
 
 
-### A experiência NLW
+## A experiência NLW
 
 Os episódios proporcionam na prática os principais fundamentos do desenvolvimento web:
 
