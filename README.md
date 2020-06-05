@@ -8,11 +8,11 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D" target="_blank">
   </a>
   
   <a href="https://www.linkedin.com/in/morenanobre/" >
-    <img alt="My Linkedin" src="https://img.shields.io/badge/-Morena Nobre-%230077B5?style=social&logo=linkedin">
+    <img alt="My Linkedin" src="https://img.shields.io/badge/-Morena Nobre-%230077B5?style=social&logo=linkedin" target="_blank">
   </a>
 
 </p>
