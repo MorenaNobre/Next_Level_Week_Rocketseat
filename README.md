@@ -1,8 +1,8 @@
 <div align="center">
-    <img alt="NLW" src="docs/next_level_week_rocket.jpg" width="25%" />
+    <img alt="NLW-starter" src="docs/nwl-starter.png" width="35%" />
 </div>
 <h3 align="center">
-  Next Level Week
+  Next Level Week - Starter
 </h3>
 
 <blockquote align="center">“A chave para a transformação é a continuidade. Continue a Codar!.”</blockquote>
@@ -17,7 +17,7 @@ A proposta é desenvolver um marketplace para a coleta de resíduos e sua recicl
 
 ## Apresentação da aplicação
 <div align="center">
-    <img alt="Exemplo" src="docs/ecoleta_rocket.gif" width="100%" />
+    <img alt="Exemplo" src="docs/ecoleta_starter.gif" width="100%" />
 </div>
 
 
@@ -30,9 +30,9 @@ Os episódios proporcionam na prática os principais funcdamentos do desenvolvim
 - [x] EPISÓDIO 2 - Criação do formulário de cadastro, aplicação de JavaScript e utilização de API de localidades da IBGE.
 - [X] EPISÓDIO 3 - Finalização do layout do formuário e aplicação JS, criação do modal e aplicação JS e criação da página de resultados.
 - [x] EPISÓDIO 4 - Estrutura de pastas, criação do servidor, rota para aplicação e template engine (Nunjucks).
-- [ ] EPISÓDIO 5
+- [x] EPISÓDIO 5 - Instalação sqlite3. Criação de arquivo de banco de dados, criação de tabela no banco de dados, inserção de dados na tabela, consulta da tabela, deletar tabela. Importação de banco de dados para server. Banco de dados nas rotas.
 
 
 <h3 align="center">
-    <img alt="github" src="https://image.flaticon.com/icons/svg/2111/2111422.svg" width="60px" />
+    <img alt="github" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200px" />
 </h3>

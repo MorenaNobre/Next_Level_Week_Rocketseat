@@ -1,11 +1,16 @@
+body {
+    background-color: white;
+}
+
 body::after {
     content: "";
     position: absolute;
-    background: white;
-    top: 260px;
+    background: #f0f0f5;
+    top: 0;
     right: 0;
     left: 0;
     bottom: 0;
+    height: 16rem;
     z-index: -1;
 }
 
@@ -53,6 +58,28 @@ main .cards {
     gap: 24px;
 }
 
+main .card {
+    background-color: #e1e1e4;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+main .card button {
+    width: 100px;
+    height: 35px;
+    background-color: var(--primary-color);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    margin-top: 0px;
+    transition: background-color 400ms;
+    margin: auto;
+    margin-bottom: 24px;
+}
+
 main .card img {
     width: 100%;
     height: 150px;
@@ -61,7 +88,7 @@ main .card img {
 }
 
 main .card h1 {
-    margin: 32px 0 ;
+    margin: 20px 10px;
     font-size: 36px;
     line-height: 41px;
     color: var(--title-color);
@@ -70,14 +97,15 @@ main .card h1 {
 main .card h3 {
     font-family: roboto;
     font-weight: bold;
-    font-size: 24px;
-    line-height: 34px;
+    font-size: 20px;
+    line-height: 25px;
     color: var(--primary-color);
-    margin: 24px 0;
+    margin: 20px 10px;
 }
 
 main .card p {
     font-size: 16px;
-    line-height: 26px;
+    line-height: 22px;
     color: #6c6c80;
+    margin: 20px 10px;
 }
